@@ -1,0 +1,119 @@
+.crypto-stat-text {
+  font-family: Inter;
+  font-weight: 600;
+  font-size: 16px;
+  color: #24292e;
+}
+
+.crypto-stats-container {
+  width: 301px;
+  /* height: 213px; */
+
+  background: #fafbfc;
+
+  border: 1px solid #e1e4e8;
+  border-radius: 4.5561px;
+}
+
+.crypto-stat-text {
+  font-family: Inter;
+
+  font-weight: 600;
+
+  color: #444d56;
+}
+
+.full-form-stat-text {
+  font-family: Inter;
+
+  font-size: 12px;
+
+  color: #959da5;
+}
+
+.positive-change {
+  font-family: Inter;
+
+  font-weight: 600;
+  font-size: 18px;
+
+  color: #8bc34a;
+}
+
+.positive-percentage-change {
+  font-family: Inter;
+
+  font-weight: 600;
+  font-size: 12px;
+
+  color: #8bc34a;
+}
+
+.negative-change {
+  font-family: Inter;
+  font-weight: 600;
+  font-size: 18px;
+  color: #db4949;
+}
+
+.negative-percentage-change {
+  font-family: Inter;
+  font-weight: 600;
+  font-size: 12px;
+  color: #db4949;
+}
+
+.triangle {
+  position: absolute;
+  width: 11px;
+  height: 6px;
+  left: 549px;
+  top: 226px;
+
+  background: #8bc34a;
+}
+
+.crypto-stat-gap {
+  gap: 16px;
+}
+
+.change-text {
+  font-family: Inter;
+
+  font-size: 12px;
+
+  color: #6a737d;
+}
+
+.horizontal-crypto-stat {
+  width: 189px;
+  height: 1px;
+
+  background: #e1e4e8;
+}
+
+.buy-text {
+  font-family: Inter;
+  font-weight: 600;
+  font-size: 14px;
+  color: #24292e;
+}
+
+.vertical-line {
+  width: 28.8px;
+  height: 0px;
+  border: 1.2px solid #e1e4e8;
+  transform: rotate(90deg);
+}
+
+.image-margin {
+  margin-bottom: 7rem;
+}
+
+.crypto-bg-image {
+  background: #ffffff;
+}
+
+.box-shadow {
+  box-shadow: 2px 2px 2px 2px;
+}
